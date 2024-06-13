@@ -19,6 +19,13 @@ Install FFmpeg.
 Install MiKTeX(https://miktex.org/download)
 ```
 
+### run
+
+```shell
+manim main.py
+manim main.py -p
+```
+
 ### referenceq
 
 * [快速入门](https://docs.manim.org.cn/cairo-backend/getting_started/index.html)
