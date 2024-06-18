@@ -28,4 +28,7 @@ manim main.py -p
 
 ### referenceq
 
-* [快速入门](https://docs.manim.org.cn/cairo-backend/getting_started/index.html)
+* [文字版快速入门](https://docs.manim.org.cn/cairo-backend/getting_started/index.html)
+* [在线LaTeX公式编辑器](https://www.latexlive.com/)
+* [我看的_bilibili教程](https://b23.tv/dBBmgim)
+
