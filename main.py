@@ -1,7 +1,7 @@
 from manim import *
 
 
-class Try(Scene):
+class Circle2Square(Scene):
     """
     manim main.py
     manim main.py -p
