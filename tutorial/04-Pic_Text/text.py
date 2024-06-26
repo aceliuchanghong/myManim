@@ -11,7 +11,7 @@ class text_scene(Scene):
             color=YELLOW
         )
         text2 = Text(
-            text="jiejiejie",
+            text="jie\tjie\tjie",
             height=0.2,
             stroke_width=0.22,
             stroke_color=BLUE,
